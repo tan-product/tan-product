@@ -1,14 +1,14 @@
-## Hi there, I'm tan-product 👋
+## Hi there, I'm Tan Nguyen Huu Nhat 👋
 
-Welcome to my GitHub profile! I'm a passionate developer who loves building great products and collaborating with others.
+Welcome to my GitHub profile! I'm a passionate developer and knowledge enthusiast who loves exploring new ideas, sharing what I learn, and building meaningful products.
 
 ---
 
 ### 🔭 What I'm Working On
 
+- Writing and sharing insights on [The Knowledge Explorer](https://theknowledgeexplorer.net/)
 - Building innovative software products
 - Exploring new technologies and frameworks
-- Contributing to open-source projects
 
 ### 🌱 Currently Learning
 
@@ -19,8 +19,8 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building grea
 ### 💬 Ask Me About
 
 - Software product development
+- Knowledge sharing and technical writing
 - Best practices in software engineering
-- Open-source collaboration
 
 ### 🛠️ Technologies & Tools
 
@@ -37,11 +37,13 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building grea
 
 ### 📫 How to Reach Me
 
-- 💼 [GitHub](https://github.com/tan-product)
+- 🌐 [The Knowledge Explorer](https://theknowledgeexplorer.net/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/tannguyenhuunhat12/)
+- 🐙 [GitHub](https://github.com/tan-product)
 
 ### ⚡ Fun Fact
 
-> Great products are built by great teams. Let's build something amazing together!
+> Knowledge is meant to be shared. The more you give, the more you grow!
 
 ---
 
